@@ -1,0 +1,15 @@
+C:\Users\sereg\source\repos\test_app\test_app\bin\Debug\test_app.exe.config
+C:\Users\sereg\source\repos\test_app\test_app\bin\Debug\test_app.exe
+C:\Users\sereg\source\repos\test_app\test_app\bin\Debug\test_app.pdb
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.csprojAssemblyReference.cache
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.Properties.Resources.resources
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.csproj.GenerateResource.cache
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.csproj.CoreCompileInputs.cache
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.exe
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.pdb
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.authorization.resources
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.main.resources
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.tests.resources
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.add_test.resources
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.themes.resources
+C:\Users\sereg\source\repos\test_app\test_app\obj\Debug\test_app.spravka.resources
